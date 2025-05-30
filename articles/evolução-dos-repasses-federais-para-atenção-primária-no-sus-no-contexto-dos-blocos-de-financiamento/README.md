@@ -1,0 +1,1 @@
+Diretório dedicado ao artigo Evolução dos Repasses Federais para Atenção Primária no SUS no Contexto dos Blocos de Financiamento. Nele estão presentes a base de dados utilizada para gerar as figuras e as três bases de dados utilizadas para ajustar os modelos, de acordo com a variável de financiamento (PAB total, PAB variável ou PAB fixo). 
